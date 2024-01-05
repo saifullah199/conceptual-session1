@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+.hero{
+    background-image: url('../conceptual-session1/images/bengal-tiger.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+ .hero h1{
+    font-size: 100px;
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: 800;
+    font-family: cursive;
+    word-spacing: 30px;
+    letter-spacing: 20px;
+}
